@@ -2,7 +2,7 @@
 ### 👋 Hi, I’m @Rajas-Bakshi
 
 
-👀 I’m interested in Data Science 
+👀 I’m Data Science Enthusiast
 
 
 🌱 I’m currently persuing my masters in Data Science  
@@ -21,4 +21,6 @@
 
 
 :pushpin: Hands-on experiences in visualization tools like Tableau and Power BI
+
+
 
