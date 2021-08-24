@@ -8,7 +8,7 @@
 🌱 I’m currently persuing my masters in Data Science  
 
 
-📫 How to reach me rajas.bakshi@hotmail.com
+📫 How to reach me rajas.bakshi@outlook.com
 
 
 :pushpin: Well-rehearsed in Machine Learning Techniques and Mathematical modelling. 
