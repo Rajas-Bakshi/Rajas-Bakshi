@@ -30,7 +30,6 @@ With over **7 years of experience** in data engineering, I specialize in buildin
 I'm always open to exciting challenges in cloud-native data engineering, architecture design, and leadership roles. If you're building something innovative or want to discuss data strategies, feel free to reach out!
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/rajbakshi)**  
-📧 **rajbakshi88@gmail.com**
 
 ---
 *“Turning data into decisions, one pipeline at a time.”*
