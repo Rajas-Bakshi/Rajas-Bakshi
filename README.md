@@ -1,26 +1,39 @@
+# 👋 Hi, I'm Rajas Bakshi
 
-### 👋 Hi, I’m @Rajas-Bakshi
+🎯 **Data Engineer | Big Data Specialist | Cloud Enthusiast**
 
+With over **7 years of experience** in data engineering, I specialize in building **robust, scalable, and secure data solutions** across Azure and AWS ecosystems. I thrive at the intersection of data architecture, analytics, and cloud engineering—transforming complex data into actionable insights.
 
-👀 I’m Data Science Enthusiast
+---
 
+## 🔧 Core Skills
 
-🌱 I’m currently persuing my masters in Data Science  
+- **Languages & Tools:** Python, SQL, Scala, PySpark, Shell, Terraform, Git
+- **Cloud Platforms:** Azure (ADF, Databricks, ADLS, Synapse), AWS (Glue, Lambda, Redshift, Athena, S3)
+- **Data Tools:** DBT, Matillion, Apache Kafka, Delta Lake, Snowflake, Airflow
+- **Database Systems:** Cosmos DB, MongoDB, MySQL, PostgreSQL, Oracle, SQL Server
+- **Architecture:** Medallion Architecture, Star Schema (Kimball), Event-Driven Design
 
+---
 
-📫 How to reach me rajas.bakshi@outlook.com
+## 🚀 Career Highlights
 
+- Built GDPR-compliant, real-time pipelines processing millions of records using Azure & Databricks.
+- Led a team of 6 engineers at Microsoft, delivering marketing automation and BI solutions.
+- Developed CI/CD-enabled data solutions using Azure DevOps & Infrastructure as Code.
+- Certified **Databricks Data Engineer Associate** with proven success in distributed systems and stream processing.
 
-:pushpin: Well-rehearsed in Machine Learning Techniques and Mathematical modelling. 
+---
 
+## 🤝 Let’s Connect
 
-:pushpin: Excellent computer skills like Web scraping, Data Acquisition, Data Management, Data Modeling, Data Validation. Data pipelines, Data visualization. Brilliant at programming languages like R, PySpark, and a gold medal in python.
+I'm always open to exciting challenges in cloud-native data engineering, architecture design, and leadership roles. If you're building something innovative or want to discuss data strategies, feel free to reach out!
 
+🌐 **[LinkedIn](https://www.linkedin.com/in/rajbakshi)**  
+📧 **rajbakshi88@gmail.com**
 
-:pushpin: Proficient in Technologies such as SQL Server, MySQL, MongoDB and Neo4j
-
-
-:pushpin: Hands-on experiences in visualization tools like Tableau and Power BI
+---
+*“Turning data into decisions, one pipeline at a time.”*
 
 
 
